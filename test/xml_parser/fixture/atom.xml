@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>8th Light Blog</title>
+ <link href="http://8thlight.github.com/feed/atom.xml" rel="self"/>
+ <link href="http://8thlight.github.com/"/>
+ <icon>http://8thlight.github.com/favicon.ico</icon>
+ <updated>2014-06-25T09:57:27-07:00</updated>
+ <id>http://8thlight.github.com/</id>
+
+ 
+ <entry>
+   <title>Wearing The Pants</title>
+   <category term="margaret-pagel" />
+   <link href="http://8thlight.github.com/margaret-pagel/2014/06/24/wearing-the-pants.html"/>
+   <author>
+     <name>["margaret pagel"]</name>
+   </author>
+   <updated>2014-06-24T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/margaret-pagel/2014/06/24/wearing-the-pants</id>
+   <content type="html">&lt;p&gt;I remember the first day I was bold enough to wear pants to work.&lt;/p&gt;
+
+&lt;p&gt;I remember hiding in my office all morning, worried about what my co-workers would say, hoping I wouldn’t have to resort to the back-up skirt hidden in my car. When I finally gathered the courage to be seen, I remember walking the halls of the dental manufacturing facility, half-surprised that no one noticed. Eventually, my boss asked, “New outfit?”&lt;/p&gt;
+
+&lt;p&gt;Stifling the nerves in my voice, I answered, “Yep!” &lt;/p&gt;
+
+&lt;p&gt;And that was that. Not a single fear realized.&lt;/p&gt;
+
+&lt;p&gt;It was the early ’80s, and it wasn’t my idea to break the implied dress code for the first time. I mean, of course I had dreamed of wearing something less cumbersome to work (almost daily!) than a dress or business suit; but I never would have had the courage to actually do something about it if my friend Milly had not introduced me to the possibility. Just a week prior to my own début, I saw her in pants at a trade show, and I thought, “How did she get away with &lt;em&gt;that&lt;/em&gt;?”&lt;/p&gt;
+
+&lt;p&gt;Turns out, the same way I did: she just went for it.&lt;/p&gt;
+
+&lt;p&gt;Perhaps to compensate for my personal acceptance in the workplace, my mother never missed an opportunity to tell me how I was making life more difficult for myself and for my family, in choosing to pursue a career. For working women 30 years ago, encouragement either came from within or it didn’t come at all. It was up to us to do more, achieve more, &lt;em&gt;be&lt;/em&gt; more. My husband knew this, and we built our family around ideals not shared in the majority of households for the time. We were quick to adopt non-traditional roles between us, considering he took care of the laundry and I mowed the lawn for 17 years. We taught our children these same values of equal responsibility with our family motto: “If you see something that needs to be done, just do it!”&lt;/p&gt;
+
+&lt;p&gt;The software industry today shares one thing in common with the dental industry of the ’80s: it just happens to be an industry of predominantly men. Ten years ago, university graduates with dental degrees in the United States were approximately &lt;a href=&quot;http://www.spiritofcaring.com/public/488.cfm&quot;&gt;50% male and 50% female&lt;/a&gt;, and the statistic looks to favor women more and more in the years to come. Many other—and older—industries have seen the same shift: lawyers were once exclusively men; now the majority of law school graduates are women. The opposite trend is occurring in nursing, where male nurses are making a comeback in a role previously dominated by women.&lt;/p&gt;
+
+&lt;p&gt;The truth is that the software industry is still very, very young. We may be overwhelmingly male right now, but that doesn’t mean an imbalance will always exist. And in fact, history indicates that it won’t last. However, just as I couldn’t change the dress code 30 years ago, neither can any one of us close the gender gap alone, even with the “perfect idea” or the “one true perspective.” What you can change, however, is your behavior: by staying proactive, by focusing on the positive instead of pointing fingers, each of us can help foster an environment of inclusion. And hopefully in the years to come, software professionals will include an increasingly diverse selection of individuals. Because among us there are great women and great men, there are great 21-year-olds and great 71-year-olds, and each one is different. Instead of focusing on what divides us, recognize that we are all different, and treat those differences as ways to complement our commonalities.&lt;/p&gt;
+
+&lt;p&gt;One of 8th Light’s most defining traits is that we lead by example, just like how I followed Milly’s example back in the ’80s. That method was effective back then, and I have found it to be just as relevant in my life today. I am proud to have raised three wonderful children—all of whom have grown up following the example set by their progressive-thinking parents—knowing that each of them can do more achieve more, &lt;em&gt;be&lt;/em&gt; more.&lt;/p&gt;
+
+&lt;p&gt;Well, except for my sons, Paul and Mike, who are technically incapable of carrying children. I will concede that women are better than them at that.&lt;/p&gt;
+
+&lt;p&gt;What are &lt;em&gt;you&lt;/em&gt; doing to lead by example?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Pipeline is Full of Acid</title>
+   <category term="meagan-waller" />
+   <link href="http://8thlight.github.com/meagan-waller/2014/06/19/the-pipeline-is-full-of-acid.html"/>
+   <author>
+     <name>["meagan waller"]</name>
+   </author>
+   <updated>2014-06-19T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/meagan-waller/2014/06/19/the-pipeline-is-full-of-acid</id>
+   <content type="html">&lt;p&gt;Last week, my co-worker Doug Bradbury posted on the 8th Light blog to &lt;a href=&quot;http://blog.8thlight.com/doug-bradbury/2014/06/09/gender-equality-is-not-enough.html&quot;&gt;ask about
+gender equality on programming
+teams&lt;/a&gt;. I’ve had some thoughts about his post for a couple of days, but I’d like to take a step back first. I don’t want to entertain the question of if our teams would be stronger with more marginalized folks on them. When you’re a member of the dominant group in the technology field (a white, straight, cisgender, heterosexual male)
+questions like these can quickly turn into hypothetical thought exercises. A
+question to toss around and contemplate, but at the end of the day, these
+questions most likely aren’t keeping you up at night. These questions keep me up
+at night.&lt;/p&gt;
+
+&lt;p&gt;This past spring semester I taught a Girls Who Code club class at The Chicago
+Tech Academy. It was an incredibly rewarding experience. Being given the
+opportunity to teach a group of high school girls some basic programming skills
+and see them flourish and get excited over it nearly brought me tears of joy a
+couple of times. However I started thinking that putting a bandaid on the
+problem, simply teaching girls to code, isn’t going to solve it.
+There are amazing women programmers who have still been threatened, sent death
+and rape threats, pushed out of the field, and have left technology all
+together. Being able to program didn’t help them. Being able to write code, even
+write code really well, didn’t prevent it from happening.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;OH: Should we be encouraging
+women to get into the pipeline when we know the pipeline leads to a sewage
+treatment plant?&lt;/p&gt;&amp;mdash; despondent (@ashedryden) &lt;a
+href=&quot;https://twitter.com/ashedryden/statuses/392052865709002752&quot;&gt;October 20,
+2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Before we can start asking why we need more marginalized folks on our teams, we
+have to ask how we can fix the toxicity that is the technology workforce.
+Throwing more marginalized people on our teams but never addressing the root
+factors, the ingrained sexism, misogyny, racism, homophobia, transphobia, and
+ableism, means we’re putting the responsibility of fixing the culture solely on
+those who are most affected by it.&lt;/p&gt;
+
+&lt;p&gt;We already know that the attrition rates for women in technology are &lt;a href=&quot;http://www.forbes.com/sites/bruceupbin/2014/05/12/the-tech-sector-needs-more-women-heres-how-you-can-make-it-happen/&quot;&gt;way too high&lt;/a&gt;. Why do we think that just adding more women to our team will solve this problem? I never hear anyone say that they should fix their totaled car by adding a new coat of paint, or giving it a new set of tires. &lt;/p&gt;
+
+&lt;p&gt;I’d be lying if I said that the thought of leaving the technology field hasn’t
+crossed my mind more than once. Dealing with hairy bugs, awful IDE’s (I’m
+looking at you, Xcode), and hard programming problems are tough enough without
+having to deal with &lt;a href=&quot;http://juliepagano.com/blog/2013/03/24/my-experiences-in-tech-death-by-1000-paper-cuts/&quot;&gt;all the microaggressions&lt;/a&gt;, death threats, rape threats, and sexual harassment that I, as a woman in technology, have faced, and I’ve only been in the field since early 2013. I don&amp;#39;t leave because I don&amp;#39;t want to add a number to the statistics. I don&amp;#39;t want to add another tick in the count to the women that were chewed up and spit out by the toxic environment.&lt;/p&gt;
+
+&lt;p&gt;To answer Doug&amp;#39;s question: no, gender equality isn&amp;#39;t enough. But maybe not for the reasons that you think. Simply demanding a ratio to fulfill some diversity quota isn&amp;#39;t going to fix the broken culture that we work in. Adding more women to our teams, adding more marginalized folks to our teams, and patting ourselves on the back isn&amp;#39;t helpful, and it&amp;#39;s not a solution.&lt;/p&gt;
+
+&lt;p&gt;Instead of asking questions that verge on thought exercises, questions that make
+us feel good for asking them, let’s ask questions that make us uncomfortable.
+Instead of asking why more women on our teams would be good, let’s ask why there
+aren’t women on our teams already. Instead of saying we should focus on individuals and not on entire groups of people, let&amp;#39;s ask why all of our recent hires are from the same group of people. It’s great to get more marginalized people into the technology field, but if we’re not actively working to remove the acid from the pipeline, what’s the point?&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in helping to fix the toxic culture, check out my website:
+&lt;a href=&quot;http://www.dayssincelasttechincident.com&quot;&gt;Days Since Last Tech Incident&lt;/a&gt; for resources, blog posts, and information on how to do just that.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How Men and Women Think Differently</title>
+   <category term="doug-bradbury" />
+   <link href="http://8thlight.github.com/doug-bradbury/2014/06/18/how-men-and-women-think-differently.html"/>
+   <author>
+     <name>["doug bradbury"]</name>
+   </author>
+   <updated>2014-06-18T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/doug-bradbury/2014/06/18/how-men-and-women-think-differently</id>
+   <content type="html">&lt;h2&gt;I used to ask a question when interviewing apprentice candidates that was designed to discover their passion: “When was the last time you stayed up all night working on something?”&lt;/h2&gt;
+
+&lt;p&gt;I thought it was a pretty clever question. A passionate person is one who would get so excited and myopically focused on something they loved that they would forget to sleep and work through the night just for the love of it.&lt;/p&gt;
+
+&lt;p&gt;It turns out that I wasn’t uncovering passion. Instead, I was just uncovering whether or not the person was a 20-something man-child. Working through the night on something is an expression of passion in a certain group of people, but it’s also an expression of immaturity and short-term thinking. A long-term thinker might realize that staying up tonight will negatively affect his ability to pursue his passion tomorrow. A more mature person would realize that some problems are best approached after a good night’s sleep.&lt;/p&gt;
+
+&lt;p&gt;I discovered the gender bias in my interview question after I read a study from Carnegie Mellon University that was conducted from 1995 to 1999 by Jane Margolis. The study reveals that when it comes to computing, women’s interests tend to be broader than men’s. Unfortunately for women, the programming culture tends to reward narrow rather than broad focus.  Many women end up feeling as though they do not belong in the profession because of this. They can feel as though their interests are too broad for a programming career.&lt;/p&gt;
+
+&lt;blockquote&gt;
+The dominate CS culture does not venerate multiple interests. Instead the singular and obsessive interest in computing that is common among men is assumed to be the road to success in computing. The model shapes the assumptions of who will succeed and who &quot;belongs&quot; in the discipline. &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;cite&gt;Jane Margolis in &amp;quot;Unlocking the Clubhouse&amp;quot; p71&lt;/cite&gt;&lt;/p&gt;
+
+&lt;p&gt;Women can also be passionate about programming, but rarely does it express itself as an intense and myopic focus at the exclusion of health and relationships as it sometimes does in men. Twenty percent of women in the CMU study reported feeling that they didn&amp;#39;t belong in computer science because they didn’t &amp;quot;Love&amp;quot; it as much as men. This research made me realize that I needed new interview questions, ones that would uncover different expressions of passion for programming. &lt;/p&gt;
+
+&lt;p&gt;I shared this research with my wife. It did not come as surprise to her. She likes to explain this difference between men and women using an analogy with bedroom furniture. Men are like a chest of drawers. They pull open a drawer, get something out, close it, and open another one. Women, on the other hand, are like a walk-in closet. They see everything all at once. Men tend to be focused on only the thing that is directly in front of them and women tend to focus more broadly with more context.&lt;/p&gt;
+
+&lt;p&gt;This is why conversations with my wife often take inexplicable (to me) turns. We will be talking about her staff meeting one second, and all of a sudden she’ll jump to a story from a trip we took years ago. I have no idea how we got there. Sometimes, she’ll back up and connect the dots for me, and I’ll marvel at the multiple streams of thought she keeps in her head all at once.&lt;/p&gt;
+
+&lt;p&gt;I, on the other hand, cannot even sit in a room where I can hear two conversations at once. We’ll be in a restaurant, enjoying ourselves, and I’ll suddenly find myself tuned in to the conversation at the table behind us, unaware of what’s going on in front of me. Or, if I head upstairs to grab a pair of socks but see a stack of magazines on my way up, I’ll find myself standing over the recycle bin still in bare feet. One thing at a time. It’s how my brain works. The only way I survive is by making lists and checking things off one at a time.&lt;/p&gt;
+
+&lt;p&gt;Now, what I’ve shared is a research-based generalization. It’s certainly not true for all people. Gender does not pigeon-hole a person into being a broad or narrow thinker. But I do think this is a significant enough gender difference that we should talk about. &lt;/p&gt;
+
+&lt;p&gt;How does this play out on programming teams?&lt;/p&gt;
+
+&lt;p&gt;A team is in an iteration planning meeting. A man will be focused very deeply in talking about a specific feature. Out of nowhere, a woman on the team will ask a question that seems completely unrelated. The man will be frustrated by distraction and digression. The woman will be frustrated because the team is ignoring an important consideration. &lt;/p&gt;
+
+&lt;p&gt;A woman talks in the stand-up meeting at length about the branch she’s been working on. A man on the team hears that she’s not ready to merge the code. She seems to be wanting him to do something with it, but he has no idea what. &lt;/p&gt;
+
+&lt;p&gt;A man is “head-down” coding away, but a woman has some new critical insight or information about the problem he is working on. She doesn’t want to interrupt him, but she tries anyway and fails to grab his attention. She feels like her voice isn’t heard or important to the team. He is annoyed that someone tried to break his concentration.&lt;/p&gt;
+
+&lt;p&gt;Armed with a little bit of gender-awareness, both men and women in this situation can develop strategies to reduce frustrations and obtain better outcomes.&lt;/p&gt;
+
+&lt;p&gt;Men: Your intense focus isn’t always what it’s cracked up to be. Allow yourself to be interrupted more often and you’ll probably get your task done sooner.&lt;/p&gt;
+
+&lt;p&gt;Women: Sometimes there’s no way to solve a problem except by focusing on pushing through it. &lt;/p&gt;
+
+&lt;p&gt;Men: She isn’t trying to annoy you, she is just trying to get your attention because you are doing something short-sighted or unnecessary.&lt;/p&gt;
+
+&lt;p&gt;Women: Know that he does actually value your input. Sometimes he is just so absorbed in something else that he doesn’t hear it. It might take a louder attempt to get his attention.&lt;/p&gt;
+
+&lt;p&gt;Men: When a woman interrupts you, stop what you’re doing and give her your full attention.  She’s about to tell you something that could save you tons of time. She’s already debated for quite a while whether or not to break your concentration. What she has to say is important.&lt;/p&gt;
+
+&lt;p&gt;Women: When you need something from a man, you have to be very specific. He can’t process the entire context that has led you to this need. Just tell him exactly what you need from him and when you need it.&lt;/p&gt;
+
+&lt;p&gt;Just the tiniest bit of gender awareness can make a big difference inside of a team. Take a moment and imagine a team balanced with both kinds of thinkers. What does this diverse team whose members understand the ways in which they’re different look like? &lt;/p&gt;
+
+&lt;p&gt;As a team, they make fewer mistakes. They overlook less. They fill in the gaps for each other. Their strengths complement each other’s weaknesses. They manage to keep an eye on the forest and trees at the same time. &lt;/p&gt;
+
+&lt;p&gt;That’s the kind of team I want to be on. Don’t you?&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;
+Margolis, Jane and Fisher, Allan. Unlocking the Clubhouse: Women in Computing. The MIT Press. February 2003.
+&lt;/small&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feeling Othered</title>
+   <category term="malcolm-newsome" />
+   <link href="http://8thlight.github.com/malcolm-newsome/2014/06/18/feeling-othered.html"/>
+   <author>
+     <name>["malcolm newsome"]</name>
+   </author>
+   <updated>2014-06-18T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/malcolm-newsome/2014/06/18/feeling-othered</id>
+   <content type="html">&lt;p&gt;I recently had the distinct pleasure of speaking with three aspiring software developers.  They recently enrolled in a code school that helps facilitate their learning and prepare them for careers in the software field.  They are sharp and strong critical thinkers.  They are ambitious and eager to make a difference.&lt;/p&gt;
+
+&lt;p&gt;And, oh, by the way…they are Black.&lt;/p&gt;
+
+&lt;p&gt;Recently, there has been a lot of discussion around our office as it pertains to gender disparity in our industry.  In fact, &lt;a href=&quot;http://blog.8thlight.com/doug-bradbury/archive.html&quot;&gt;Doug&lt;/a&gt;, &lt;a href=&quot;http://blog.8thlight.com/kevin-buchanan/2014/06/13/individuals-not-groups.html&quot;&gt;Kevin&lt;/a&gt;, and &lt;a href=&quot;http://blog.8thlight.com/meagan-waller/2014/06/19/the-pipeline-is-full-of-acid.html&quot;&gt;Meagan&lt;/a&gt; recently wrote some thought provoking blog posts on the subject.  Through it all, though, I realized something.  I realized that no one from 8th Light approached me about the broader topic of diversity nor did anyone ask what my experiences have been like as a Black male in our company or in the industry as a whole.&lt;/p&gt;
+
+&lt;p&gt;And, guess what?  I&amp;#39;m &lt;strong&gt;REALLY&lt;/strong&gt; glad about that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here&amp;#39;s Why&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While thinking about the topic of diversity in the software field, I took some time to reflect on my personal experiences since I began learning to code in 2011.  As I looked back,  I realized that, at every step of the way, I was mentored, encouraged, and embraced by talented developers—none of whom shared my same ethnic heritage.  At no point was I made to feel like I didn&amp;#39;t belong.  I&amp;#39;ve had no negative experiences because of my race.  In fact, the more I thought about it, I realized that my main concern was always over whether I was becoming proficient enough to work full-time as a developer.  Quite frankly, I never gave any thought to whether or not I would fit in or be accepted on the basis of my skin color.&lt;/p&gt;
+
+&lt;p&gt;So, while preparing to write this blog post, I began to wonder if my thoughts and experiences were unique to me.  I also found myself wondering if there were aspiring developers that were primarily concerned about their ability to succeed in this industry because of the color of their skin.  Upon speaking with these new developers, it was refreshing to learn that they, too, were not concerned their race would be a limiting factor as they pursued careers as software developers.  Furthermore, as they spoke, something important came to light.  They remarked at how seldom they have felt &lt;em&gt;othered&lt;/em&gt;—a feeling that occurs when someone makes it obvious that they recognize that you are physically different—and acts on that recognition in some form or fashion.&lt;/p&gt;
+
+&lt;p&gt;As I thought back over the time that I&amp;#39;ve spent in the software industry, I can honestly say that I can&amp;#39;t think of a time that I have felt &lt;em&gt;othered&lt;/em&gt;.  That makes me happy.  Ultimately, I don&amp;#39;t want people to care about my contributions because I have a nice, shiny bald head—or any other physical trait for that matter.  Instead, I want people to care about my contributions because I am a member of the team and, more importantly, because of excellent qualities and proficiencies that I demonstrate.  Therefore, I am pleased to say that, in my experience, being treated this way has been the rule and not the exception.&lt;/p&gt;
+
+&lt;p&gt;And, all of that brings me to this conclusion:&lt;/p&gt;
+
+&lt;p&gt;If—or, perhaps when—the topic of diversity arises, it&amp;#39;s important to keep in mind that those who are in the minority within your company or organization may potentially be bothered by &lt;em&gt;attempts&lt;/em&gt; at inclusion.  This can be the case because such attempts can often serve as a reminder that someone is constantly viewing them as though they are different.  The most effective way to make people feel valued is by genuinely embracing them as a part of the team.  Regardless of their physical make-up, every team member has their own needs and desires.  Those needs and desires are discovered as bonds are formed and relationships are established.  Then, when that truly happens, people won&amp;#39;t feel &lt;em&gt;othered&lt;/em&gt;.  It&amp;#39;s that simple.  No diversity training needed.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Individuals, Not Groups</title>
+   <category term="kevin-buchanan" />
+   <link href="http://8thlight.github.com/kevin-buchanan/2014/06/13/individuals-not-groups.html"/>
+   <author>
+     <name>["kevin buchanan"]</name>
+   </author>
+   <updated>2014-06-13T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/kevin-buchanan/2014/06/13/individuals-not-groups</id>
+   <content type="html">&lt;p&gt;Doug asked a couple of thought provoking questions in his &lt;a href=&quot;http://blog.8thlight.com/doug-bradbury/2014/06/09/gender-equality-is-not-enough.html&quot;&gt;recent blog post&lt;/a&gt; about gender equality:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;What is unique about women that make them not just equal, but superior on software development teams? How can our differences make stronger teams and a stronger industry?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I really struggled with this question. My attempt to break this question down gave rise to a few different questions. What kinds of things would make one superior on a software development team? Where would that superior trait stem from? Would it be due to whether an individual happens to be a woman? Would all women have this trait?&lt;/p&gt;
+
+&lt;p&gt;I can&amp;#39;t honestly provide one answer to this question, before digressing into pure physical differences, unless there is possibly something to be derived from being part of an underrepresented group - women - in our specific workplace. Does being in the gender minority in the workplace possibly convey an added drive or a heightened sense of competitiveness? That could possibly be a superior trait to have, but it seems that it would more closely depend on an individual&amp;#39;s personality and character. Does this woman happen be an athlete and enjoy competition? Does this woman happen to really enjoy learning new things in an uncompetitive environment? A naive, stereotypical, probably offensive response to this question would be that women are more in touch with their and others emotions, or are more right brain thinkers, while men are more left brain thinkers.&lt;/p&gt;
+
+&lt;p&gt;The conclusion I ultimately come to is that superiority isn&amp;#39;t to be found by randomly selecting one person from one group. We shouldn&amp;#39;t be desiring women on our development teams simply because women bring something different to the table. People with superior traits bring superior traits to the table. We need to start including women on our software teams because you&amp;#39;re more likely to find the people with superior traits if you&amp;#39;re not excluding an entire group of people from your possibilities. From a business perspective, it&amp;#39;s just math. From a humanistic perspective, it&amp;#39;s just the right thing to do.&lt;/p&gt;
+
+&lt;p&gt;As individuals, we are not all equal in the skills that we can bring to different jobs. As groups, men or women, we are equal. We are equal in that both men and women have the potential to be superior software developers. The problem is that many individuals, mostly men, have forgotten, or have been taught, that these groups are different when it comes to the potential for traits that we want in software developers, or any vocation. The easy solution is to stop talking in terms of groups and focus on individuals. If an individual can bring something to my software team, I&amp;#39;d like them on it. If an individual is made uncomfortable in our work environment, we should address it.&lt;/p&gt;
+
+&lt;p&gt;So, what is it about women that make them not just equal, but superior on software development teams? Well, they could have a lot of experience working with Javascript frameworks, or they could be really passionate about new technologies, or they could be really good at modeling data, or they could give great feedback on code reviews, or they could know a lot of different design patterns, or they could communicate very effectively with clients, or they could know everything there is to know about Ruby. They &lt;em&gt;could&lt;/em&gt; be a lot of things that would make a superior software team member. But you&amp;#39;ll never find out if you approach women, or any group for that matter, with the idea that being part of that group inherently cultivates or stifles certain skills that you desire on your team.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gender Equality is Not Enough</title>
+   <category term="doug-bradbury" />
+   <link href="http://8thlight.github.com/doug-bradbury/2014/06/09/gender-equality-is-not-enough.html"/>
+   <author>
+     <name>["doug bradbury"]</name>
+   </author>
+   <updated>2014-06-09T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/doug-bradbury/2014/06/09/gender-equality-is-not-enough</id>
+   <content type="html">&lt;p&gt;Throughout my childhood, I have strong memories of my mother, an IT professional, singing “Anything you can do, I can do better” (from the Irving Berlin classic, &lt;a href=&quot;https://www.youtube.com/watch?v=WO23WBji_Z0&quot;&gt;“Annie, Get Your Gun”&lt;/a&gt;.) In the song, Annie Oakley wasn’t satisfied with equal. She knew she could do it better and so did my mom. &lt;/p&gt;
+
+&lt;p&gt;Having grown up hearing that, I agree wholeheartedly that all people ought to have equal opportunity and access to programming careers regardless of their gender. &lt;/p&gt;
+
+&lt;p&gt;But looking at our industry now, I think that equality is not enough. It’s not enough to want the world to be fair and equal for everyone. A morality based only on fairness runs the severe risk of homogenizing a culture so severely that all creativity disappears.&lt;/p&gt;
+
+&lt;p&gt;The volume of rhetoric about women in programming has been rising over the last couple of months, but much of the content disappoints me. The rhetoric is so largely based around failures: who used what inappropriate metaphor or who published sexual content to promote which event. Backlash and counter backlash. It escalates quickly, turns nasty, and then quickly fades leaving little change in its wake.&lt;/p&gt;
+
+&lt;p&gt;So much of what people are saying seems to come back to fairness and equality. Men and women should be treated the same. They should stand on equal footing, level the playing field, break the glass ceiling, and what ever other metaphors you’d like to throw in there.&lt;/p&gt;
+
+&lt;p&gt;These are important goals. Discrimination takes many forms and it takes vigilance to root it out. But talk of equality easily degrades into talk of sameness. The reality is that gender is one of the things that makes people different from one another. To ignore the differences and think of every person as being the same is just as much a problem as preventing a person from taking a job or underpaying a person because of their gender. Sameness robs us of a much richer and more beneficial discussion about how we are different because of gender. &lt;/p&gt;
+
+&lt;p&gt;Our goal ought not to be to make women more like men so that they can be programmers. Instead let’s talk about how to build workplaces that embrace difference and foster the tension and dialogues that produce great software.&lt;/p&gt;
+
+&lt;p&gt;Programmer Ashe Dryden &lt;a href=&quot;https://www.youtube.com/watch?v=VafA2stfTUMO&quot;&gt;talks&lt;/a&gt; about a number of benefits of a diverse workplace. She cites increases in sales revenues, number of customers, market share, and profits. She also talks about better and faster complex problem solving; more creative and stimulated workers who make better decisions.&lt;/p&gt;
+
+&lt;p&gt;Those benefits are great, but why do they exist? Why are companies, and specifically programming teams, better with more women on the team?&lt;/p&gt;
+
+&lt;p&gt;Those are the questions we need to be asking and wrestling with. Rather than fighting about who most offended whom, let’s change the conversation and talk about “Why?” &lt;/p&gt;
+
+&lt;p&gt;Why is it important for product companies, IT organizations, and consultancies to have a strong representation of female programmers?&lt;/p&gt;
+
+&lt;p&gt;I’ll be posting some of my specific thoughts in the weeks to come and in the meantime, I’d like you to do the same. To get started, answer the question above or the ones below:&lt;/p&gt;
+
+&lt;p&gt;What is unique about women that make them not just equal, but superior on software development teams?
+How can our differences make stronger teams and a stronger industry?&lt;/p&gt;
+
+&lt;p&gt;Let me know on &lt;a href=&quot;https://twitter.com/intent/tweet?via=dougbradbury&quot;&gt;Twitter&lt;/a&gt; (@dougbradbury) if you do!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>There's an Exception for That</title>
+   <category term="craig-demyanovich" />
+   <link href="http://8thlight.github.com/craig-demyanovich/2014/06/02/theres-an-exception-for-that.html"/>
+   <author>
+     <name>["craig demyanovich"]</name>
+   </author>
+   <updated>2014-06-02T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/craig-demyanovich/2014/06/02/theres-an-exception-for-that</id>
+   <content type="html">&lt;p&gt;&amp;quot;Stack level too deep?&amp;quot;, I asked myself, perplexed. All I did was add
+a gem and a few lines of initialization code.&lt;/p&gt;
+
+&lt;p&gt;The gem that I added was a client for a configuration service. For
+fun, let&amp;#39;s call this configuration service &amp;quot;caas&amp;quot; for Configuration
+as a Service. Values can be
+added to it via migrations, which work similarly to ActiveRecord
+migrations. Any pending migrations are run at deploy.&lt;/p&gt;
+
+&lt;p&gt;I wrote some test migrations and ran them successfully in
+my local development environment. Deployment to QA, however, failed.
+Let&amp;#39;s replicate that failure locally by setting &lt;code&gt;RACK_ENV&lt;/code&gt; to &lt;code&gt;qa&lt;/code&gt;
+and running the migration Rake task.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;rake caas:migrate &lt;span class=&quot;nv&quot;&gt;RACK_ENV&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;qa
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; rake aborted!
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; stack level too deep
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; Tasks: &lt;span class=&quot;nv&quot;&gt;TOP&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&amp;gt; caas:migrate
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;See full trace by running task with --trace&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;OK. Let&amp;#39;s run with &lt;code&gt;--trace&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;rake --trace caas:migrate &lt;span class=&quot;nv&quot;&gt;RACK_ENV&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;qa
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; ** Invoke caas:migrate &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;first_time&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; ** Invoke caas:environment &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;first_time&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; ** Execute caas:environment
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; ** Execute caas:migrate
+&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt; rake aborted!
+&lt;span class=&quot;lineno&quot;&gt;7&lt;/span&gt; stack level too deep
+&lt;span class=&quot;lineno&quot;&gt;8&lt;/span&gt; /Users/cdemyanovich/.rbenv/versions/1.9.3-p484/lib/ruby/1.9.1/rake/task.rb:162
+&lt;span class=&quot;lineno&quot;&gt;9&lt;/span&gt; Tasks: &lt;span class=&quot;nv&quot;&gt;TOP&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&amp;gt; caas:migrateshell
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Not much help. I already knew that there was a problem running
+the migrations. At this point, my teammates and I spent quite some
+time thinking about the failure and reading code. Then it hit me:
+even though there&amp;#39;s no backtrace, there must be an exception
+associated with the &amp;quot;stack level too deep&amp;quot; message. Some searching
+turned up an answer: &lt;a href=&quot;http://ruby-doc.org/core-1.9.3/SystemStackError.html&quot;&gt;&lt;code&gt;SystemStackError&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I temporarily changed the client gem to rescue &lt;code&gt;SystemStackError&lt;/code&gt;,
+updated the host application &lt;code&gt;Gemfile&lt;/code&gt; to refer to a local copy of
+the gem, and ran the migrations again.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;rake --trace caas:migrate &lt;span class=&quot;nv&quot;&gt;RACK_ENV&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;qa
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; ** Invoke caas:migrate &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;first_time&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; ** Invoke caas:environment &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;first_time&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; ** Execute caas:environment
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; ** Execute caas:migrate
+&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt; stack level too deep
+&lt;span class=&quot;lineno&quot;&gt;7&lt;/span&gt; /Users/cdemyanovich/source/configuration_client/lib/configuration_client/patches/net_http_timeout.rb:8
+&lt;span class=&quot;lineno&quot;&gt;8&lt;/span&gt; rake aborted!
+&lt;span class=&quot;lineno&quot;&gt;9&lt;/span&gt; Tasks: &lt;span class=&quot;nv&quot;&gt;TOP&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&amp;gt; caas:migrate
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Perfect. Now we know exactly where the problem is.&lt;/p&gt;
+
+&lt;p&gt;If you encounter a problem and have nothing but an error message to go
+on, determine whether it comes from an exception that you can rescue,
+even if only temporarily. Speculation and intuition are useful, but a
+backtrace will tell you exactly where you need to look.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Yes, you can speak at a conference</title>
+   <category term="eric-smith" />
+   <link href="http://8thlight.github.com/eric-smith/2014/05/28/you-can-speak-at-a-conference.html"/>
+   <author>
+     <name>["eric smith"]</name>
+   </author>
+   <updated>2014-05-28T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/eric-smith/2014/05/28/you-can-speak-at-a-conference</id>
+   <content type="html">&lt;p&gt;It was RailsConf in 2007. Micah and I were between sessions, with me following him everywhere because he knew people and I did not. We were chatting about something when he asked me, &amp;quot;So do you think in a year you could be giving a talk here?&amp;quot; I dodged and stuttered because &amp;quot;Are you nuts? These people are SO much smarter than me!&amp;quot; seemed like the wrong answer, especially to my (then new) boss.&lt;/p&gt;
+
+&lt;p&gt;...&lt;/p&gt;
+
+&lt;p&gt;That summer all of 8th Light went with me to give a talk at Chicago Ruby in Chicago. Of course back then the whole company meant all six of us. We walked from the train to the building in 80-90 degree heat in business casual clothes, so I was already soaked in sweat by the time we got there. I started my talk and my slides did not work on the projector, because internet presentation software wasn&amp;#39;t ready for prime time yet. While speaking flopsweat started joining actual sweat, to the point where it was noticeably dripping off of me and onto the computer. Did I mention I didn&amp;#39;t have a remote control for my slides? I gave the group an exercise and asked if they had any questions. One angrily responded with, &amp;quot;Yeah, what do we do?&amp;quot; Afterwards Paul said I did better than he had the previous month, which was kind but could only be true if he caused property damage.&lt;/p&gt;
+
+&lt;p&gt;...&lt;/p&gt;
+
+&lt;p&gt;Since those two incidents I&amp;#39;ve spoken at enough conferences that I can honestly say I&amp;#39;ve lost count. I&amp;#39;m no longer interested in speaking at RailsConf, but I have no doubt I could. I&amp;#39;ve actually reduced the number of conferences I apply to because of the travel, and because I feel very confident when I submit I&amp;#39;ll be accepted. So how do you go from ruining user group meetings to speaking wherever and whenever you want?&lt;/p&gt;
+
+&lt;h2&gt;Accept That People Want to Hear What You Have To Say&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;m a consultant, by job title and profession, but I still don&amp;#39;t &lt;em&gt;feel&lt;/em&gt; like a consultant. When people ask me what I do for a living I usually say computer programmer. Even though a large part of my job is talking and teaching, I still feel out of place branding myself at conferences.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;re reading this there&amp;#39;s a good chance you are not a consultant, but a programmer at a large or small corporation. This is what Scott Hansleman calls the &amp;quot;silent majority.&amp;quot; I know what it&amp;#39;s like because I used to be one, and as such you probably feel like you aren&amp;#39;t able to give a talk at a conference. You look at conference schedules and see all the consultants speaking and assume you cannot be one of them. You&amp;#39;re &amp;quot;just a corporate programmer.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Nothing could be further from the truth.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ll tell you a secret. Increasingly my job involves teaching others. Do you know why I do it? It&amp;#39;s not because I am so much smarter than you, or because I can&amp;#39;t write anymore so I teach. It&amp;#39;s because I &lt;em&gt;learn more from teaching you than you do from me&lt;/em&gt;. Programmers everywhere, at so many organizations large and small, have so much to add to our profession assume they don&amp;#39;t. They are waiting for when they are ready, which is meaningless.&lt;/p&gt;
+
+&lt;p&gt;So if you find yourself feeling like I did, asking &amp;quot;Are you nuts?&amp;quot;, let me assure you that you have something to share. We want to see you speak. Now you need to tell yourself that.&lt;/p&gt;
+
+&lt;h2&gt;Offer to Talk Anywhere&lt;/h2&gt;
+
+&lt;p&gt;George Carlin used to throw out all his material every year, but during the year he had a phrase: &amp;quot;If you&amp;#39;ve got a zip code, I&amp;#39;ll be there.&amp;quot; The entire year was leading to his HBO special. Give lunch and learns where you work. Offer to speak at user groups. I&amp;#39;ve run a user group before and I assure you they are desperate. If you live someplace where competition is fierce then look to the suburbs. Try local universities and community colleges. The important thing here isn&amp;#39;t practice, you can do that at home.&lt;/p&gt;
+
+&lt;p&gt;No the reason you do this is because once you see enough people are willing to listen to what you have to say, you&amp;#39;ll realize that Step 0 is actually true. You knew that when I wrote it, but you won&amp;#39;t believe it until you give a few talks you feel terrible about, only to get compliments afterwards. In the Matrix there&amp;#39;s a moment where Neo decides to fight Agent Smith. One of the characters, already safely out of the Matrix, asks &amp;quot;What&amp;#39;s he doing?&amp;quot; Morpheus answers:&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;He is starting to believe.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Unlike the Matrix movies, you&amp;#39;ll get better with each talk.&lt;/p&gt;
+
+&lt;h2&gt;Watch Mediocre Speakers&lt;/h2&gt;
+
+&lt;p&gt;Remember that awesome talk Uncle Bob gave? Or Gary Bernhardt? How about Rich Hickey at Strange Loop?  Those were great talks. Don&amp;#39;t watch those.&lt;/p&gt;
+
+&lt;p&gt;What you need to do is start paying attention when everybody has their laptop open. The talk after the keynote but not right before lunch. The one where the speaker has sweat dripping off her forehead. You&amp;#39;re looking to find average or poor talks so you can be inspired. Greatness doesn&amp;#39;t inspire. Nobody watches the guy in the lead of the marathon and decides to run one. They see the people taking 7 hours and say, &amp;quot;I can beat that.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;You need to watch enough speakers who stink, or bore, or are even offensive, so that you feel confident saying &amp;quot;I can do better than that!&amp;quot;&lt;/p&gt;
+
+&lt;h2&gt;Apply Everywhere&lt;/h2&gt;
+
+&lt;p&gt;A few years ago I sat down in January and found every conference I could. I applied at all of them and got rejected by most of them, but that&amp;#39;s how I went to Scotland and California. Once you start to feel almost confident enough that you could talk at a conference then you need to start applying. It&amp;#39;s a numbers game, but one that trends in your favor, because after you get into your first conference your second conference is easier. Your third is even easier. Suddenly instead of getting rejected by most conferences you start getting accepted.&lt;/p&gt;
+
+&lt;h2&gt;Practice&lt;/h2&gt;
+
+&lt;p&gt;You knew that of course. Being prepared is how you feel confident entering the talk. I sometimes practice giving a talk to my youngest kids, despite their ages. My five year old sits politely and tries to ask real questions, while my three year old yells that I&amp;#39;m a poopie face. It&amp;#39;s pretty realistic.&lt;/p&gt;
+
+&lt;h4&gt;Don&#39;t Over Prepare&lt;/h4&gt;
+
+&lt;p&gt;There is a simple way to tell if I&amp;#39;ve prepared a joke in advance during a talk. Nobody laughs. If everybody laughs I made it up on the spot. Over preparing is often my biggest problem, because if you know every word you are going to say or create a slide with every item on it then your talk will sound like you&amp;#39;re reading a book. A boring book too. When a speaker &amp;quot;took a while to get going&amp;quot; it&amp;#39;s often because they were nervous at the beginning, but it&amp;#39;s also because their introduction and first few minutes have been rehearsed over and over again. Once the speaker gets into the part that they know but don&amp;#39;t have memorized, they often relax and start speaking instead of reciting.&lt;/p&gt;
+
+&lt;h4&gt;Slides Aren&#39;t That Important&lt;/h4&gt;
+
+&lt;p&gt;Watch a TED talk sometime, after you&amp;#39;ve seen enough poor talks that your confidence won&amp;#39;t be shot. Notice that the camera rarely shows the slides. If the camera does show them it will be one or two very important ones. The rest of the time the focus is on the speaker&amp;#39;s face. If your one hour talk has 75 slides then nobody will be looking at you. This is true if the slides are boring bulleted lists or beautiful images that maximize your point. Finding slides can be a fun distraction from actually prepping your talk, and isn&amp;#39;t as important as you think. It&amp;#39;s taken a long time to learn this one.&lt;/p&gt;
+
+&lt;p&gt;Following these steps will not get you invited to do the keynote talk at your favorite giant conference next year, but following these tips will get you to speak at conferences small and large. Your profile will raise, and others will learn something. No flopsweat required.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How is Pairing Working?</title>
+   <category term="malcolm-newsome" />
+   <link href="http://8thlight.github.com/malcolm-newsome/2014/05/27/How-Is-Pairing-Working.html"/>
+   <author>
+     <name>["malcolm newsome"]</name>
+   </author>
+   <updated>2014-05-27T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/malcolm-newsome/2014/05/27/How-Is-Pairing-Working</id>
+   <content type="html">&lt;p&gt;Pair programming always &lt;em&gt;works&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;To explain why, we will take a look at an important study which explains how people learn in social contexts.&lt;/p&gt;
+
+&lt;h2&gt;The Social Learning Theory&lt;/h2&gt;
+
+&lt;p&gt;In the 1960&amp;#39;s and 70&amp;#39;s, a psychologist named Albert Bandura and a group of his colleagues conducted what is now known as the Bobo Doll Experiments.  In these experiments they observed how children reacted after witnessing adults treat the Bobo Doll aggressively while playing with it.  Then, at the end of the session, the adult would either receive a punishment, a reward, or no consequence at all.  The children were then observed to see what types of behaviors they exhibited after witnessing a particular adult.  Bandura and his colleagues went on to publish 5 key tenets of the Social Learning Theory based on their findings. They are as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tenet 1:&lt;/strong&gt;  Learning is not purely behavioral; rather, it is a cognitive process that takes place in a social context.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tenet 2:&lt;/strong&gt;  Learning can occur by observing a behavior and by observing the consequences of the behavior.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tenet 3:&lt;/strong&gt;  Learning involves observation, extraction of information from those observations, and making decisions about the performance of the behavior. Thus, learning can occur without an observable change in behavior.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tenet 4:&lt;/strong&gt;  Reinforcement plays a role in learning but is not entirely responsible for learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tenet 5:&lt;/strong&gt;  The learner is not a passive recipient of information. Cognition, environment, and behavior all mutually influence each other.&lt;/p&gt;
+
+&lt;h2&gt;Social Learning Theory Explained&lt;/h2&gt;
+
+&lt;p&gt;Learning is more than just &amp;quot;monkey see, monkey do.&amp;quot;  It involves bringing in memories and other mental associations in order to grasp new concepts and determine their usefulness.&lt;/p&gt;
+
+&lt;p&gt;Often times we look for an outward response in order to determine that learning has taken place.  However, we cannot determine whether learning has taken place purely on the basis of whether or not the person is exhibiting different behaviors.&lt;/p&gt;
+
+&lt;p&gt;Reinforcement is anything that would encourage a person to repeat a particular action.  Reinforcement is not entirely responsible because the absence of any type of reinforcement or even punishment can carry significant weight as well.&lt;/p&gt;
+
+&lt;p&gt;There is a cyclical effect that happens during the learning process.  Once the learner learns something, their subsequent responses or behavior will, in turn, have an influence on their environment.  This cycle will continue to repeat itself, causing everyone in the environment to be affected.&lt;/p&gt;
+
+&lt;h2&gt;So, what happens when we pair?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;ve heard Uncle Bob mention on several occasions that the biggest benefit to pairing is the exchange of knowledge that happens between two people.  Interestingly enough, this can also be the reason why people have found pairing to be a let down upon trying it.&lt;/p&gt;
+
+&lt;p&gt;I say this because learning is always taking place during pairing.  Each time developers pair up, both individuals observe and assess each other’s behaviors and then make a determination on whether those behaviors are good and beneficial, bad and disadvantageous, or seem to have no effect at all.  This assessment is further compounded by the fact that any reinforcement, punishment, or inaction on the part of management, the company or anyone else in the environment can have a significant impact on the learning experience as well.&lt;/p&gt;
+
+&lt;p&gt;This leads us to a much more appropriate question.  Instead of asking &lt;em&gt;if&lt;/em&gt; pairing is working, we should be asking &lt;strong&gt;how&lt;/strong&gt; pairing is working.&lt;/p&gt;
+
+&lt;p&gt;If pairing is not yielding positive results, it is likely because expectations haven&amp;#39;t been clearly set.  When the focus shifts to how pairing is working, there will be more emphasis placed on how each individual pairing session is being carried out and what is being learned during each one.  Expectations for the session can be set up front in as little as a minute or two.  When both parties briefly discuss and agree on what they hope to accomplish during their time of pairing, they are creating appropriate and realistic expectations that will guide the session and keep it on course.  In turn, the behaviors exhibited during pairing sessions will improve as those involved seek to meet those expectations.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s quite likely that anyone who has pair programmed has had pairing sessions that went extremely well and others that seemed to drag on and leave both people wondering what they&amp;#39;d accomplished.  Even still, it is improper to say that pairing didn&amp;#39;t work.  It did, in fact, work--because something was learned during the interaction.  But, if what was learned was not something that could be considered positive, it creates an opportunity to step back and take a look at what could have been done differently.  When we do that, we are assessing how pairing is working.  And, when we assess how pairing is working, we set ourselves up for a chance at more meaningful, positive and successful pair programming sessions in the future.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;p&gt;Bandura, Albert (1963). Social learning and personality development. New York: Holt, Rinehart, and Winston.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Leaky Libraries: How To Assess The Risk Of Dependencies</title>
+   <category term="ben-voss" />
+   <link href="http://8thlight.github.com/ben-voss/2014/05/26/leaky-libraries.html"/>
+   <author>
+     <name>["ben voss"]</name>
+   </author>
+   <updated>2014-05-26T00:00:00-07:00</updated>
+   <id>http://8thlight.github.com/ben-voss/2014/05/26/leaky-libraries</id>
+   <content type="html">&lt;p&gt;A library is a package of code.  Usually a library is small.  It is focused on solving a single problem.   A library is created when a problem is generic enough to be abstracted and reused.&lt;/p&gt;
+
+&lt;p&gt;The popular opinion around libraries today seems to be: the more it decides for the developer, the better.  A library that forces implementations on a codebase is beginner-friendly.  New developers, or dabblers, can get a feeling of instant productivity and gratification.  There is a lot to learn when a developer first starts out, and black box tools build momentum and sustain enthusiasm.&lt;/p&gt;
+
+&lt;p&gt;Eventually, while using all of these libraries to build out solutions, something will have to change. It always does.   If a library forces the consuming application to adopt its designs to work -- if it’s a leaky library -- the risk of higher costs skyrocket.  The system will be harder to read and maintain.  New developers will have a more difficult time ramping up.  Choosing libraries is a cost-benefit analysis, but by analyzing libraries based on how many implementation details leak into the consuming application’s designs, we can make smarter decisions on which libraries to use.&lt;/p&gt;
+
+&lt;h3&gt;The Costs&lt;/h3&gt;
+
+&lt;p&gt;There is a difference between the code you write and the library’s code you consume.  If a library is consumed and a modification in behavior is required, there are two costs:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;There is a cost to learn how the library was designed and operates.  Depending on the quality and complexity of the design, this could be inestimable, and could be too advanced for many less experienced developers.  And there is always the risk that it will all become an unrewarded sunk cost after figuring out the 3rd party isn’t flexible enough.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The code to customize it will, in varying degrees, feel and look like a hack.   The risk of introducing confusing designs into the codebase increases.  I’ve seen custom solutions to 3rd parties that are easier to read and work with, but it is hard.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There a direct correlation between these costs, and how strongly a library forces  implementation details.  Lately I’ve been doing a lot of work in javascript, form validation and Backbone, and some of the more popular libraries may be long-term liabilities on a project.&lt;/p&gt;
+
+&lt;h3&gt;Popular Libraries, and Risk Points&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/thedersen/backbone.validation&quot;&gt;Backbone.Validation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Backbone.Validation is a plugin that offers dual form and model data validation.  After installing, I add a validation configuration onto my model, not that different from where Rails decides to place validations.  But having the library dictate where to place your validations introduces some potential problems.&lt;/p&gt;
+
+&lt;p&gt;Oftentimes, the data in my model will be different than the data I have in my view.  Coupling these validations could introduce problems.  Backbone.Validation also suffers from how it appends its messages and validations in a custom way:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;extend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Backbone&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Validation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;required&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;This field is required&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;min&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;{0} should be at least {1} characters&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And custom patterns:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;extend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Backbone&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Validation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;patterns&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;myPattern&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/my-pattern/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/my-much-better-email-regex/&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;We need to extend a different object if it’s just a regular validator:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;extend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Backbone&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Validation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;validators&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;myValidator&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;customValue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;model&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;customValue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;error&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;required&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;customValue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;model&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;My version of the required validator&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;All in all, it is flexible enough to make changes.  But there are potential problems: changes need to be made on a global object with no protection.  Most likely all messages and validations need to be kept in a single file to protect against overriding.  The application code experiences design leaks and this makes it harder to own and control the application.&lt;/p&gt;
+
+&lt;p&gt;The developer needs to learn the library instead of the application.  There is a difference between where pattern validations go and everything else.  There is a separate place for messages to their corresponding validations.  This may be ok, but more time needs to be spent learning and customizing the library, instead of the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jzaefferer/jquery-validation&quot;&gt;jQuery.validate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After calling #validate on a form, jQuery.validate handles data validation, error display timing, error display style and bindings for when that happens.  It does a lot.&lt;/p&gt;
+
+&lt;p&gt;jQuery.validate is fairly customizable.  It has ways to change where the error is displayed.  Or what it looks like, or when it disappears.  I can’t change my HTML structure though because it has to assume a certain markup contract for its out-of-the-box magic to work.  But for everything else, there is documentation to cover it.&lt;/p&gt;
+
+&lt;p&gt;If a library’s documentation is hefty, be scared.  It’s probably doing too much, and that means that when the hood gets popped, someone is going to get hurt.  Libraries that control the way they are customized don’t give the developer any real control.  The customization happens on the library’s terms, and this raises the risk of higher costs when change comes.&lt;/p&gt;
+
+&lt;p&gt;jQuery.validate was designed with side-effects as a feature.  After binding a form and submitting it will automatically insert errors into the DOM and decide when they will be reevaluated.  Developers supporting libraries that do things like this may be saying: “Everybody has to handle the errors, so we do it for them.”  The problem is: you don’t know that.  You can’t know that.  There are too many use cases.  If a library decides side-effects for you, it raises the risk of use.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/thoughtbot/paperclip&quot;&gt;Paperclip&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I get it, it is built for the active record ecosystem, but because it assumes so much about the environment and designs, the cost of change would be enormous.  Almost none of the code written in a rails system with paperclip could be reused or repackaged into a library to make file uploading easier in a company’s other applications.  The developers would have to start from scratch.&lt;/p&gt;
+
+&lt;h3&gt;Choose Libraries Based on Extensibility&lt;/h3&gt;
+
+&lt;p&gt;Knowing that change always happens, these are heuristics to identify libraries that have a higher risk:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Avoid libraries that offer several ways to customize or encourages monkey patching.  If a library offers numerous ways to customize, that is an indication that it does too much out of the box.&lt;/li&gt;
+&lt;li&gt;Avoid libraries that have side effects as a feature.&lt;/li&gt;
+&lt;li&gt;Avoid libraries with lots of documentation.  It’s probably doing too much.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Applications built with libraries chosen with those characteristics in mind will have a better chance for consistent, clean development, and lower the risk to change in the future.  It can be tempting to choose a library because it delivers everything needed, right now.  Just install and go.  But beware of instant gratification.  Don’t be afraid to say no to some dangerous libraries -- it may be the insurance needed to protect our applications from the future.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

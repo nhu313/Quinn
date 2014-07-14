@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+  >
+
+<channel>
+  <title>wongfuphil</title>
+  <atom:link href="http://wongfuphil.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+  <link>http://wongfuphil.wordpress.com</link>
+  <description>...</description>
+  <lastBuildDate>Tue, 08 Jul 2014 07:46:49 +0000</lastBuildDate>
+  <language>en</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+  <generator>http://wordpress.com/</generator>
+<cloud domain='wongfuphil.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+    <url>http://s2.wp.com/i/buttonw-com.png</url>
+    <title>wongfuphil</title>
+    <link>http://wongfuphil.wordpress.com</link>
+  </image>
+  <atom:link rel="search" type="application/opensearchdescription+xml" href="http://wongfuphil.wordpress.com/osd.xml" title="wongfuphil" />
+  <atom:link rel='hub' href='http://wongfuphil.wordpress.com/?pushpress=hub'/>
+  <item>
+    <title>My end of the deal</title>
+    <link>http://wongfuphil.wordpress.com/2014/06/24/my-end-of-the-deal/</link>
+    <comments>http://wongfuphil.wordpress.com/2014/06/24/my-end-of-the-deal/#comments</comments>
+    <pubDate>Tue, 24 Jun 2014 08:01:54 +0000</pubDate>
+    <dc:creator><![CDATA[wongfuphil]]></dc:creator>
+        <category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[dad]]></category>
+    <category><![CDATA[fathers day]]></category>
+    <category><![CDATA[friend]]></category>
+    <category><![CDATA[legos]]></category>
+
+    <guid isPermaLink="false">http://wongfuphil.wordpress.com/?p=170</guid>
+    <description><![CDATA[I really wanted this Lego set.]]></description>
+        <content:encoded><![CDATA[<p><a href="https://wongfuphil.files.wordpress.com/2014/06/legoufo.jpg">
+<p>I really wanted this Lego set. It was the summer between 6th and 7th grade. ]]></content:encoded>
+      <wfw:commentRss>http://wongfuphil.wordpress.com/2014/06/24/my-end-of-the-deal/feed/</wfw:commentRss>
+    <slash:comments>45</slash:comments>
+
+    <media:content url="http://0.gravatar.com/avatar/fe668a112902b5cccc10b61d53af1219?s=96&#38;d=identicon&#38;r=G" medium="image">
+      <media:title type="html">wongfuphil</media:title>
+    </media:content>
+
+    <media:content url="http://wongfuphil.files.wordpress.com/2014/06/legoufo.jpg" medium="image">
+      <media:title type="html">LegoUFO</media:title>
+    </media:content>
+  </item>
+  </channel>
+</rss>
