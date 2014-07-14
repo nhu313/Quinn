@@ -15,4 +15,19 @@ defmodule Quinn.Mixfile do
   defp deps do
     []
   end
+
+   defp description do
+    """
+    Quinn is Elixir xml parser.
+    """
+  end
+
+  defp package do
+    [
+      files:        [ "lib", "mix.exs", "README.md"],
+      contributors: [ "Nhu Nguyen <nhu313@gmail.com>"],
+      licenses:     [ "Apache 2" ],
+      links:        %{"GitHub" => "https://github.com/nhu313/Quinn"}
+    ]
+  end
 end
