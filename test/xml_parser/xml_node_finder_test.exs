@@ -1,16 +1,14 @@
 defmodule Quinn.NodeFinderTest do
   use ExUnit.Case
 
-  alias Quinn.XmlNode
-
-  @html_tree %XmlNode{attr: nil,
+  @html_tree %{attr: nil,
                       name: :html,
-                      value: [%XmlNode{attr: nil, name: :head, value: ["title"]},
-                              %XmlNode{attr: nil, name: :title, value: []},
-                              %XmlNode{attr: nil, name: :body, value: ["body1", "body2"]},
-                              %XmlNode{attr: nil, name: :footer, value: [%XmlNode{attr: nil, name: :line, value: ["this"]}]},
-                              %XmlNode{attr: nil, name: :body, value: [%XmlNode{attr: nil, name: :line, value: ["that"]}]},
-                              %XmlNode{attr: [], name: :"content:encoded", value: ["<p>comet!!</p>"]}]}
+                      value: [%{attr: nil, name: :head, value: ["title"]},
+                              %{attr: nil, name: :title, value: []},
+                              %{attr: nil, name: :body, value: ["body1", "body2"]},
+                              %{attr: nil, name: :footer, value: [%{attr: nil, name: :line, value: ["this"]}]},
+                              %{attr: nil, name: :body, value: [%{attr: nil, name: :line, value: ["that"]}]},
+                              %{attr: [], name: :"content:encoded", value: ["<p>comet!!</p>"]}]}
 
   test "when node is root" do
     assert Quinn.find(@html_tree, :html) == [@html_tree]
@@ -21,7 +19,7 @@ defmodule Quinn.NodeFinderTest do
   end
 
   test "when node name is a string" do
-    node = %XmlNode{attr: [], name: :"content:encoded", value: ["<p>comet!!</p>"]}
+    node = %{attr: [], name: :"content:encoded", value: ["<p>comet!!</p>"]}
     assert Quinn.find(@html_tree, :"content:encoded") == [node]
   end
 
@@ -31,7 +29,7 @@ defmodule Quinn.NodeFinderTest do
   end
 
   test "when node is not the first child" do
-    second_child = %XmlNode{attr: nil, name: :title, value: []}
+    second_child = %{attr: nil, name: :title, value: []}
     assert Quinn.find(@html_tree, :title) == [second_child]
   end
 
@@ -41,7 +39,7 @@ defmodule Quinn.NodeFinderTest do
   end
 
   test "find nested node more than once" do
-    expected_node = [%XmlNode{attr: nil, name: :line, value: ["that"]}]
+    expected_node = [%{attr: nil, name: :line, value: ["that"]}]
     assert Quinn.find(@html_tree, [:body, :line]) == expected_node
   end
 end

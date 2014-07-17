@@ -7,31 +7,26 @@ A very simple/rough draft XML parser in Elixir. I'm currently using `xmerl_scan.
 
 
 ```elixir
-Quinn.parse("<head><title short_name = \"yah\">Yahoo</title><title:content>Bing</title></head>")
+Quinn.parse("<head><title short_name = \"yah\">Yahoo</title><title:content>Bing</title:content></head>")
 ```
 Calling parse on the xml will produce
 ```elixir
-[%Quinn.XmlNode{attr: [],
-                name: :head,
-                value: [%Quinn.XmlNode{attr: [short_name: "yah"],
-                                       name: :title,
-                                       value: ["Yahoo"]},
-                        %Quinn.XmlNode{attr: [],
-                                       name: :"title:content",
-                                       value: ["Bing"]}]}]
+[%{attr: [], name: :head,
+   value: [%{attr: [short_name: "yah"], name: :title, value: ["Yahoo"]},
+           %{attr: [], name: :"title:content", value: ["Bing"]}]}]
 ```
 # Finding nodes
 
 Suppose you want to find all the body nodes from this structure:
 ```elixir
-structure = %XmlNode{attr: nil,
-                     name: :html,
-                     value: [%XmlNode{attr: nil, name: :head, value: ["title"]},
-                             %XmlNode{attr: nil, name: :title, value: []},
-                             %XmlNode{attr: nil, name: :body, value: ["body1", "body2"]},
-                             %XmlNode{attr: nil, name: :footer, value: [%XmlNode{attr: nil, name: :line, value: ["this"]}]},
-                             %XmlNode{attr: nil, name: :body, value: [%XmlNode{attr: nil, name: :line, value: ["that"]}]},
-                             %XmlNode{attr: [], name: :"content:encoded", value: ["<p>comet!!</p>"]}]}
+structure = %{attr: [],
+              name: :html,
+              value: [%{attr: [], name: :head, value: ["title"]},
+                      %{attr: [], name: :title, value: []},
+                      %{attr: [], name: :body, value: ["body1", "body2"]},
+                      %{attr: [], name: :footer, value: [%{attr: [], name: :line, value: ["this"]}]},
+                      %{attr: [], name: :body, value: [%{attr: [], name: :line, value: ["that"]}]},
+                      %{attr: [], name: :"content:encoded", value: ["<p>comet!!</p>"]}]}
 ```
 You can call
 ```elixir
@@ -39,8 +34,8 @@ Quinn.find(structure, :body)
 ```
 This will be the result:
 ```elixir
-[%Quinn.XmlNode{attr: nil, name: :body, value: ["body1", "body2"]},
- %Quinn.XmlNode{attr: nil, name: :body, value: [%Quinn.XmlNode{attr: nil, name: :line, value: ["that"]}]}]
+[%{attr: [], name: :body, value: ["body1", "body2"]},
+ %{attr: [], name: :body, value: [%{attr: [], name: :line, value: ["that"]}]}]
 ```
 Or given the structure above, you want to find the node `line` inside `body`, then you can invoke it like this:
 ```elixir
@@ -48,7 +43,7 @@ Quinn.find(structure, [:body, :line])
 ```
 The result will be
 ```elixir
-[%XmlNode{attr: nil, name: :line, value: ["that"]}]
+[%{attr: [], name: :line, value: ["that"]}]
 ```
 Please refer if you want to see more example on how it is used.
 

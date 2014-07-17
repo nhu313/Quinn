@@ -19,7 +19,7 @@ defmodule Quinn.XmlParser do
 
   defp parse_record({:xmlElement, name, _, _, _, _, _, attributes, elements, _, _, _}) do
     value = combine_values(parse_record(elements))
-    [%Quinn.XmlNode{name: name, attr: parse_attribute(attributes), value: value}]
+    [%{name: name, attr: parse_attribute(attributes), value: value}]
   end
 
   defp parse_record({:xmlText, _, _, _, value, _}) do
