@@ -1,3 +1,5 @@
 
+language: elixir
+
 scripts:
   - mix test
