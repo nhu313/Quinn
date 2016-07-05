@@ -2,16 +2,22 @@ defmodule Quinn.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :quinn,
-     version: "0.0.5",
-     elixir: "~> 1.0",
-     deps: deps,
-     description: description,
-     package: package]
+    [
+      app: :quinn,
+      version: "0.0.5",
+      elixir: "~> 1.0",
+      deps: deps,
+      description: description,
+      package: package
+    ]
   end
 
   def application do
-    [applications: [:xmerl]]
+    [
+      applications: [
+        :xmerl
+      ]
+    ]
   end
 
   defp deps do
@@ -26,10 +32,20 @@ defmodule Quinn.Mixfile do
 
   defp package do
     [
-      files:        [ "lib", "mix.exs", "README.md"],
-      maintainers: [ "Nhu Nguyen <nhu313@gmail.com>"],
-      licenses:     [ "Apache 2" ],
-      links:        %{"GitHub" => "https://github.com/nhu313/Quinn"}
+      files: [
+        "lib",
+        "mix.exs",
+        "README.md"
+      ],
+      maintainers: [
+        "Nhu Nguyen <nhu313@gmail.com>"
+      ],
+      licenses: [
+        "Apache 2"
+      ],
+      links: %{
+        "GitHub" => "https://github.com/nhu313/Quinn"
+      }
     ]
   end
 end
