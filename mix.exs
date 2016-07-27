@@ -3,7 +3,7 @@ defmodule Quinn.Mixfile do
 
   def project do
     [app: :quinn,
-     version: "0.0.5",
+     version: "0.0.6",
      elixir: "~> 1.3",
      deps: deps,
      description: description,
