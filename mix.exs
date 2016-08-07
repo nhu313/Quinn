@@ -4,7 +4,7 @@ defmodule Quinn.Mixfile do
   def project do
     [
       app: :quinn,
-      version: "0.0.6",
+      version: "1.0.0",
       elixir: "~> 1.3",
       deps: deps,
       description: description,
@@ -26,7 +26,7 @@ defmodule Quinn.Mixfile do
 
    defp description do
     """
-    Quinn is Elixir xml parser.
+    Quinn is a simple XML parser mainly used to parse rss/atom feeds.
     """
   end
 
