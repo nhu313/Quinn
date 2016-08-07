@@ -21,7 +21,9 @@ defmodule Quinn.Mixfile do
   end
 
   defp deps do
-    []
+    [
+      {:ex_doc, ">= 0.0.0", only: :dev}
+    ]
   end
 
    defp description do
@@ -44,7 +46,8 @@ defmodule Quinn.Mixfile do
         "Apache 2"
       ],
       links: %{
-        "GitHub" => "https://github.com/nhu313/Quinn"
+        "GitHub" => "https://github.com/nhu313/Quinn",
+        "Docs" => "https://github.com/nhu313/Quinn"
       }
     ]
   end
