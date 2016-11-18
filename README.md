@@ -45,6 +45,23 @@ The result will be
 ```elixir
 [%{attr: [], name: :line, value: ["that"]}]
 ```
+
+# Naive Map
+
+Converts xml string to an Elixir map which is convenient since no set-up is required (no xpath specification).  This tool is inspired by the convenience of Rails Hash.from_xml() but is "naive" in that it carries the same drawbacks.  Attributes on nodes don't carry over if the node has just one text value.  Sometimes you will get lists or a map key depending on the cardinality of sibling nodes detected at a level.  
+
+For example 
+
+```elixir
+Quinn.naive_map("<transaction><order>1</order><order>2</order></transaction>")
+#detects 2 siblings so you'll get:
+%{transaction: %{order: ["1", "2"]}}
+#But if no siblings, you'll not get a list:
+Quinn.naive_map("<transaction><order>3</order></transaction>")
+%{transaction: %{order: "3"}}
+```
+
+
 Please refer to the tests if you want to see more example on how it is used.
 
 Please let me know if you come across any problem. I'm still new to Elixir so feel free to contribute or clean up the code.
