@@ -1,7 +1,10 @@
 Quinn
 =====
 
-A simple XML parser in Elixir aims to parse rss/atom feeds. I'm currently using `xmerl_scan.string` to parse the xml.
+A simple XML parser in Elixir aims to parse rss/atom feeds. I'm currently
+using `xmerl_scan.string` to parse the xml. I'm a bit busy so I may take awhile to response and/or update. Feel free to send a pull request. Otherwise, check out [hex](https://hex.pm/packages?search=xml&sort=downloads) for other XML parsers that may be better maintained.
+
+Note: I am not parsing comment at the moment. It does handle comment, but it just ignores it. Hopefully I will update it soon. Sorry!
 
 # Parsing
 

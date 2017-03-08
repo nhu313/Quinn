@@ -31,6 +31,10 @@ defmodule Quinn.XmlParser do
     end
   end
 
+  defp parse_record({:xmlComment, _, _, _, value}) do
+    []
+  end
+
   defp parse_record([]), do: []
 
   defp parse_record([element]), do: parse_record(element)

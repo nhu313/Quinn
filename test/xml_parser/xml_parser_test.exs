@@ -52,6 +52,15 @@ defmodule Quinn.XmlParserTest do
     assert expected == Quinn.parse(xml)
   end
 
+  test "comments" do
+    xml = "<head><title short_name = \"yah\">Yahoo</title><title:content>Bing</title:content><!-- foo --></head>"
+    expected = [%{attr: [],
+                  name: :head,
+                  value: [%{attr: [short_name: "yah"], name: :title, value: ["Yahoo"]},
+                          %{attr: [], name: :"title:content", value: ["Bing"]}]}]
+    assert expected == Quinn.parse(xml)
+  end
+
   test "parse small rss feed" do
     [title] = File.read!("test/xml_parser/fixture/rss_small.xml")
               |> Quinn.parse
