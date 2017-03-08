@@ -7,6 +7,13 @@ defmodule Quinn.XmlParser do
     |> parse_record
   end
 
+  def parse_with_comments(xml) do
+    :erlang.bitstring_to_list(xml)
+    |> :xmerl_scan.string
+    |> elem(0)
+    |> parse_record()
+  end
+
   defp combine_values([]), do: []
 
   defp combine_values(values) do
@@ -29,6 +36,10 @@ defmodule Quinn.XmlParser do
     else
       []
     end
+  end
+
+  defp parse_record({:xmlComment, _, _, _, value}) do
+    []
   end
 
   defp parse_record([]), do: []
