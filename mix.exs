@@ -6,9 +6,9 @@ defmodule Quinn.Mixfile do
       app: :quinn,
       version: "1.0.1",
       elixir: "~> 1.3",
-      deps: deps,
-      description: description,
-      package: package
+      deps: deps(),
+      description: description(),
+      package: package()
     ]
   end
 
