@@ -1,7 +1,7 @@
 defmodule Quinn do
 
-  def parse(xml) do
-    Quinn.XmlParser.parse(xml)
+  def parse(xml, strip_namespaces \\ nil) do
+    Quinn.XmlParser.parse(xml, strip_namespaces)
   end
 
   def find(node, node_names) do
