@@ -19,7 +19,7 @@ defmodule Quinn.XmlParser do
 
   defp parse_record({:xmlElement, name, _, _, _, _, _, attributes, elements, _, _, _}, options) do
     value = combine_values(parse_record(elements, options))
-    if options[:strip_namespaces], do: name = name |> to_string |> String.split(":") |> List.last |> Macro.underscore |> String.to_atom
+    name = parse_name(name, options)
     [%{name: name, attr: parse_attribute(attributes), value: value}]
   end
 
@@ -32,13 +32,8 @@ defmodule Quinn.XmlParser do
     end
   end
 
-  defp parse_record({:xmlComment, _, _, _, _value}, _) do
-    []
-  end
-
+  defp parse_record({:xmlComment, _, _, _, _value}, _), do: []
   defp parse_record([], _), do: []
-
-  defp parse_record([element]), do: parse_record(element)
 
   defp parse_record([head | tail], options) do
     parse_record(head, options) ++ parse_record(tail, options)
@@ -50,11 +45,18 @@ defmodule Quinn.XmlParser do
     [{name, to_string(value)}]
   end
 
-  defp parse_attribute([attribute]) do
-    parse_attribute(attribute)
-  end
-
   defp parse_attribute([head | tail]) do
     parse_attribute(head) ++ parse_attribute(tail)
   end
+
+  defp parse_name(name, %{strip_namespaces: true}) do
+    name
+    |> to_string
+    |> String.split(":")
+    |> List.last
+    |> Macro.underscore
+    |> String.to_atom
+  end
+
+  defp parse_name(name, _), do: name
 end
