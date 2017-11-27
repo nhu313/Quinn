@@ -32,7 +32,14 @@ defmodule Quinn.XmlParser do
     end
   end
 
-  defp parse_record({:xmlComment, _, _, _, _value}, _), do: []
+  defp parse_record({:xmlComment, _, _, _, value}, options) do
+    if options[:comments] do
+      [%{name: :comments, attr: [], value: String.strip(to_string(value))}]
+    else
+      []
+    end
+  end
+
   defp parse_record([], _), do: []
 
   defp parse_record([head | tail], options) do

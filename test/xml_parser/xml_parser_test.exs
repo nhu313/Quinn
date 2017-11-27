@@ -52,13 +52,23 @@ defmodule Quinn.XmlParserTest do
     assert expected == Quinn.parse(xml)
   end
 
-  test "comments" do
+  test "ignore comments" do
     xml = "<head><title short_name = \"yah\">Yahoo</title><title:content>Bing</title:content><!-- foo --></head>"
     expected = [%{attr: [],
                   name: :head,
                   value: [%{attr: [short_name: "yah"], name: :title, value: ["Yahoo"]},
                           %{attr: [], name: :"title:content", value: ["Bing"]}]}]
     assert expected == Quinn.parse(xml)
+  end
+
+  test "parse comments" do
+    xml = ~s(<head><title short_name = "yah">Yahoo</title><!--- <test pattern="SECAM" /><test pattern="NTSC" /> --></head>)
+    comments = ~s(- <test pattern="SECAM" /><test pattern="NTSC" />)
+    expected = [%{attr: [],
+                  name: :head,
+                  value: [%{attr: [short_name: "yah"], name: :title, value: ["Yahoo"]},
+                          %{attr: [], name: :comments, value: comments}]}]
+    assert expected == Quinn.parse(xml, %{comments: true})
   end
 
   test "parse small rss feed" do
