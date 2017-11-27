@@ -81,4 +81,17 @@ defmodule Quinn.XmlParserTest do
                   |> Quinn.find([:entry, :title])
     assert hd(title.value) =~ "Wearing The Pants"
   end
+
+  test "parse without namespace" do
+    xml = ~s(<m:return xsi:type="d4p1:Answer"><d4p1:Title> Title </d4p1:Title><d4p1:Description> Description </d4p1:Description></m:return>)
+
+    expected = [%{attr: ["xsi:type": "d4p1:Answer"],
+                  name: :return,
+                  value: [%{attr: [], name: :title, value: ["Title"]},
+                %{attr: [],
+                  name: :description,
+                  value: ["Description"]}]}]
+
+    assert expected == Quinn.parse(xml, %{strip_namespaces: true})
+  end
 end

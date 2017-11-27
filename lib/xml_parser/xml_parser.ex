@@ -1,10 +1,10 @@
 defmodule Quinn.XmlParser do
 
-  def parse(xml, strip_namespaces) do
+  def parse(xml, options \\ %{}) do
     :erlang.bitstring_to_list(xml)
     |> :xmerl_scan.string
     |> elem(0)
-    |> parse_record(strip_namespaces)
+    |> parse_record(options)
   end
 
   defp combine_values([]), do: []
@@ -17,9 +17,9 @@ defmodule Quinn.XmlParser do
     end
   end
 
-  defp parse_record({:xmlElement, name, _, _, _, _, _, attributes, elements, _, _, _}, strip_namespaces) do
-    value = combine_values(parse_record(elements, strip_namespaces))
-    if strip_namespaces == :strip_namespaces, do: name = name |> to_string |> String.split(":") |> List.last |> Macro.underscore |> String.to_atom
+  defp parse_record({:xmlElement, name, _, _, _, _, _, attributes, elements, _, _, _}, options) do
+    value = combine_values(parse_record(elements, options))
+    if options[:strip_namespaces], do: name = name |> to_string |> String.split(":") |> List.last |> Macro.underscore |> String.to_atom
     [%{name: name, attr: parse_attribute(attributes), value: value}]
   end
 
@@ -32,7 +32,7 @@ defmodule Quinn.XmlParser do
     end
   end
 
-  defp parse_record({:xmlComment, _, _, _, _value}) do
+  defp parse_record({:xmlComment, _, _, _, _value}, _) do
     []
   end
 
@@ -40,8 +40,8 @@ defmodule Quinn.XmlParser do
 
   defp parse_record([element]), do: parse_record(element)
 
-  defp parse_record([head | tail], strip_namespaces) do
-    parse_record(head, strip_namespaces) ++ parse_record(tail, strip_namespaces)
+  defp parse_record([head | tail], options) do
+    parse_record(head, options) ++ parse_record(tail, options)
   end
 
   defp parse_attribute([]), do: []
