@@ -52,13 +52,23 @@ defmodule Quinn.XmlParserTest do
     assert expected == Quinn.parse(xml)
   end
 
-  test "comments" do
+  test "ignore comments" do
     xml = "<head><title short_name = \"yah\">Yahoo</title><title:content>Bing</title:content><!-- foo --></head>"
     expected = [%{attr: [],
                   name: :head,
                   value: [%{attr: [short_name: "yah"], name: :title, value: ["Yahoo"]},
                           %{attr: [], name: :"title:content", value: ["Bing"]}]}]
     assert expected == Quinn.parse(xml)
+  end
+
+  test "parse comments" do
+    xml = ~s(<head><title short_name = "yah">Yahoo</title><!--- <test pattern="SECAM" /><test pattern="NTSC" /> --></head>)
+    comments = ~s(- <test pattern="SECAM" /><test pattern="NTSC" />)
+    expected = [%{attr: [],
+                  name: :head,
+                  value: [%{attr: [short_name: "yah"], name: :title, value: ["Yahoo"]},
+                          %{attr: [], name: :comments, value: comments}]}]
+    assert expected == Quinn.parse(xml, %{comments: true})
   end
 
   test "parse small rss feed" do
@@ -80,5 +90,18 @@ defmodule Quinn.XmlParserTest do
                   |> Quinn.parse
                   |> Quinn.find([:entry, :title])
     assert hd(title.value) =~ "Wearing The Pants"
+  end
+
+  test "parse without namespace" do
+    xml = ~s(<m:return xsi:type="d4p1:Answer"><d4p1:Title> Title </d4p1:Title><d4p1:Description> Description </d4p1:Description></m:return>)
+
+    expected = [%{attr: ["xsi:type": "d4p1:Answer"],
+                  name: :return,
+                  value: [%{attr: [], name: :title, value: ["Title"]},
+                %{attr: [],
+                  name: :description,
+                  value: ["Description"]}]}]
+
+    assert expected == Quinn.parse(xml, %{strip_namespaces: true})
   end
 end
