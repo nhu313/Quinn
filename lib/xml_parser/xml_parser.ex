@@ -24,7 +24,7 @@ defmodule Quinn.XmlParser do
   end
 
   defp parse_record({:xmlText, _, _, _, value, _}, _) do
-    string_value = String.strip(to_string(value))
+    string_value = String.trim(to_string(value))
     if (String.length(string_value) > 0) do
       [string_value]
     else
@@ -34,7 +34,7 @@ defmodule Quinn.XmlParser do
 
   defp parse_record({:xmlComment, _, _, _, value}, options) do
     if options[:comments] do
-      [%{name: :comments, attr: [], value: String.strip(to_string(value))}]
+      [%{name: :comments, attr: [], value: String.trim(to_string(value))}]
     else
       []
     end
