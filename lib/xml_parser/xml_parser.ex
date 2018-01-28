@@ -1,4 +1,9 @@
 defmodule Quinn.XmlParser do
+  @moduledoc """
+  Contains functions for parsing XML documents.
+
+  These are for internal use. The methods on [Quinn](Quinn.html) should be used.
+  """
 
   def parse(xml, options \\ %{}) do
     :erlang.bitstring_to_list(xml)
