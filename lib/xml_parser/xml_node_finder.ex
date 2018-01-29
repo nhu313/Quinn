@@ -1,4 +1,9 @@
 defmodule Quinn.XmlNodeFinder do
+  @moduledoc """
+  Contains functions for finding nodes on parsed XML.
+
+  These are for internal use. The methods on [Quinn](Quinn.html) should be used.
+  """
 
   def find([], _), do: []
   def find(nil, _), do: []
