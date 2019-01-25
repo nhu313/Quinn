@@ -4,7 +4,7 @@ defmodule Quinn.Mixfile do
   def project do
     [
       app: :quinn,
-      version: "1.1.2",
+      version: "1.1.3",
       elixir: "~> 1.3",
       deps: deps(),
       description: description(),
