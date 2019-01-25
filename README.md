@@ -48,6 +48,24 @@ The xml above will give you this. Note the name is `comments`.
            %{attr: [], name: :comments, value: ~s(- <test pattern="SECAM" /><test pattern="NTSC" />)}]}]
 ```
 
+### Parsing - Attributes as map
+```elixir
+xml = ~s(<m:return xsi:type="d4p1:Answer" desc="bla"><d4p1:Title> Title </d4p1:Title><d4p1:Description> Description </d4p1:Description></m:return>)
+
+result = Quinn.parse(xml, %{map_attributes: true})
+```
+
+The xml above will give you the attributes in map
+
+```
+	    expected = [%{attr: %{"xsi:type": "d4p1:Answer", desc: "bla"},
+	                  name: :"m:return",
+	                  value: [%{attr: %{}, name: :"d4p1:Title", value: ["Title"]},
+	                %{attr: %{},
+	                  name: :"d4p1:Description",
+	                  value: ["Description"]}]}]
+```
+	
 # Finding nodes
 
 Suppose you want to find all the body nodes from this structure:
