@@ -25,7 +25,9 @@ defmodule Quinn.XmlParser do
   defp parse_record({:xmlElement, name, _, _, _, _, _, attributes, elements, _, _, _}, options) do
     value = combine_values(parse_record(elements, options))
     name = parse_name(name, options)
-    [%{name: name, attr: parse_attribute(attributes), value: value}]
+    attributes = if options[:map_attributes], do: Map.new(parse_attribute(attributes)), else: parse_attribute(attributes)
+
+    [%{name: name, attr: attributes, value: value}]
   end
 
   defp parse_record({:xmlText, _, _, _, value, _}, _) do

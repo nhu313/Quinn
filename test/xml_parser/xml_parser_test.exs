@@ -104,4 +104,17 @@ defmodule Quinn.XmlParserTest do
 
     assert expected == Quinn.parse(xml, %{strip_namespaces: true})
   end
+
+  test "parse with attributes as map" do
+    xml = ~s(<m:return xsi:type="d4p1:Answer" desc="bla"><d4p1:Title> Title </d4p1:Title><d4p1:Description> Description </d4p1:Description></m:return>)
+
+    expected = [%{attr: %{"xsi:type": "d4p1:Answer", desc: "bla"},
+                  name: :"m:return",
+                  value: [%{attr: %{}, name: :"d4p1:Title", value: ["Title"]},
+                %{attr: %{},
+                  name: :"d4p1:Description",
+                  value: ["Description"]}]}]
+
+    assert expected == Quinn.parse(xml, %{map_attributes: true})
+  end
 end
